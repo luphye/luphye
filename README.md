@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to enjoy life
 - 💞️ I’m looking to collaborate on nowhere
 - 📫 How to reach me, please not, thanks!
-- Yeh, i would like to be a salt fish ...
+- Yeh, i would like to be a salted fish ...
 
 <!---
 luphye/luphye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
